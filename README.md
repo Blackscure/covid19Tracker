@@ -3,8 +3,8 @@
 covid19Tracker
 
  ## Authors
- Wekesa Buyahi - A software developre.
- Paul Onyango -A software developer.
+  Wekesa Buyahi
+  Paul Onyango 
 
 
 ## Description
