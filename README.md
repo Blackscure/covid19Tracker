@@ -3,8 +3,8 @@
 covid19Tracker
 
  ## Authors
-  Wekesa Buyahi
-  Paul Onyango 
+ 1.  Wekesa Buyahi
+ 2.  Paul Onyango 
 
 
 ## Description
